@@ -1,2 +1,3 @@
 ﻿# NichBot
 
+Example Telegram bot
