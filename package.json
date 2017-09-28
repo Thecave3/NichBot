@@ -1,0 +1,12 @@
+{
+  "name": "nich-bot",
+  "version": "0.0.1",
+  "description": "NichBot",
+  "main": "app.js",
+  "author": {
+    "name": "Andrea Lacava"
+  },
+  "dependencies": {
+    "telebot": "^1.2.3"
+  }
+}
